@@ -46,34 +46,27 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='src/assets/Project2CodePath/' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
+
 [ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
 
-**Challenges encountered while building the app:**
+**Challenges I encountered while building the app:**
 - Implementing the 3D card flip animation with CSS transforms
 - Creating a fuzzy matching algorithm for answer validation
 - Managing multiple state variables for quiz mode functionality
 - Ensuring responsive design works across different screen sizes
 - Integrating both study and quiz modes in a single app
 
-**Technical highlights:**
-- Built with React 18 and Vite for fast development
-- Used modern CSS features (gradients, animations, flexbox)
-- Implemented smart answer checking with normalized string comparison
-- Created reusable FlashCard component with props-based styling
-- Added visual feedback animations for enhanced user experience
 
 ## License
 
-    Copyright 2024 Thy Tran
+    Copyright 2025 Thy Tran with ❤️
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
